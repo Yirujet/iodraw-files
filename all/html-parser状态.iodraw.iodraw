@@ -37,13 +37,13 @@
         <mxCell id="HCEHeyacjci3WVbhPvIN-3" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="170" y="-5030" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HCEHeyacjci3WVbhPvIN-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="HCEHeyacjci3WVbhPvIN-3">
+        <mxCell id="HCEHeyacjci3WVbhPvIN-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="-4910" as="sourcePoint" />
-            <mxPoint x="160" y="-4960" as="targetPoint" />
+            <mxPoint x="100" y="-5127" as="sourcePoint" />
+            <mxPoint x="180" y="-5130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="-4910" />
-              <mxPoint x="110" y="-4960" />
+              <mxPoint x="170" y="-5037" />
+              <mxPoint x="120" y="-5087" />
             </Array>
           </mxGeometry>
         </mxCell>
