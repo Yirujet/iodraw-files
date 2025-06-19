@@ -143,8 +143,8 @@
         <mxCell id="HCEHeyacjci3WVbhPvIN-38" value="7" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="540" y="-5025" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HCEHeyacjci3WVbhPvIN-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-5032" width="50" height="30" as="geometry" />
+        <mxCell id="HCEHeyacjci3WVbhPvIN-41" value="开始标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-5025" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
