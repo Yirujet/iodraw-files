@@ -110,7 +110,10 @@
           <mxGeometry x="540" y="-5165" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HCEHeyacjci3WVbhPvIN-29" value="结束标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="-4952" width="70" height="30" as="geometry" />
+          <mxGeometry x="570" y="-4955" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HCEHeyacjci3WVbhPvIN-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="555" y="-5172" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
