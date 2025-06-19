@@ -116,8 +116,10 @@
         <mxCell id="HCEHeyacjci3WVbhPvIN-30" value="注释" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="-5165" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HCEHeyacjci3WVbhPvIN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCEHeyacjci3WVbhPvIN-33" target="HCEHeyacjci3WVbhPvIN-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HCEHeyacjci3WVbhPvIN-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCEHeyacjci3WVbhPvIN-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-5010" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HCEHeyacjci3WVbhPvIN-40" value="\s、\r、\t、/、&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HCEHeyacjci3WVbhPvIN-39">
           <mxGeometry x="0.0105" y="-1" relative="1" as="geometry">
@@ -139,9 +141,6 @@
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint x="2" y="11" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="HCEHeyacjci3WVbhPvIN-38" value="7" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#CC6600;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-5025" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HCEHeyacjci3WVbhPvIN-41" value="开始标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="-5025" width="70" height="30" as="geometry" />
