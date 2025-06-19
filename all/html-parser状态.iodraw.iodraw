@@ -109,6 +109,9 @@
         <mxCell id="HCEHeyacjci3WVbhPvIN-26" value="5" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="540" y="-5165" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HCEHeyacjci3WVbhPvIN-29" value="结束标签" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="-4952" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
