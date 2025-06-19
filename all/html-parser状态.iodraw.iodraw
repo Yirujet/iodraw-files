@@ -31,8 +31,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HCEHeyacjci3WVbhPvIN-9" value="html中词法单元定义：&lt;div&gt;startTag -&amp;gt; &amp;lt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-5280" width="140" height="60" as="geometry" />
+        <mxCell id="HCEHeyacjci3WVbhPvIN-9" value="html中词法单元定义：&lt;div&gt;startTag -&amp;gt; &amp;lt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-5285" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
