@@ -98,6 +98,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HCEHeyacjci3WVbhPvIN-26" value="4" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-5165" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
